@@ -1,4 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Jacob Albrecht's Portfolio
+
+
+Below is a list of complete and on-going projects pertaining to my experience in the world of data.
+
+### Completed
+
+# Project 1
+```
+
+```
+
+# Project 2
+```
+
+```
+
+# Project 3
+```
+
+```
+
+### Ongoing
+
+# Project 1
+```
+
+```
+
+# Project 2
+```
+
+```
+
+# Project 3
+```
+
+```
 
 You can use the [editor on GitHub](https://github.com/jalbrecht24/jalbrecht24.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
