@@ -3,36 +3,38 @@
 
 Below is a list of complete and on-going projects pertaining to my experience in the world of data.
 
-### Completed
+# Completed
 
-# Project 1
+## Project 1
 ```
 
 ```
 
-# Project 2
+## Project 2
 ```
 
 ```
 
-# Project 3
+## Project 3
 ```
 
 ```
 
-### Ongoing
 
-# Project 1
+
+# Ongoing
+
+## Project 1
 ```
 
 ```
 
-# Project 2
+## Project 2
 ```
 
 ```
 
-# Project 3
+## Project 3
 ```
 
 ```
