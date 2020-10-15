@@ -6,6 +6,8 @@ Below is a list of completed and on-going projects pertaining to my experience i
 # Completed
 
 ## Project 1
+
+[For more detail, click here](https://github.com/jalbrecht24/jalbrecht24.github.io/project 1.md)
 ```
 
 ```
