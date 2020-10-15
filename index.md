@@ -1,6 +1,6 @@
 ## Welcome to Jacob Albrecht's Portfolio
 
-![Main](https://github.com/jalbrecht24/jalbrecht24.github.io/data.jpg)
+![Main](/Users/jacobalbrecht/Documents/GitHub/jalbrecht24.github.io/data.jpg)
 Below is a list of completed and on-going projects pertaining to my experience in the world of data.
 
 # Completed
