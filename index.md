@@ -14,7 +14,7 @@ Below is a list of completed and on-going projects pertaining to my experience i
 
 ## Project 2
 
-[For more detail, click here](https://github.com/jalbrecht24/ds710spring2019finalproject)
+[For more detail, click here](https://https://jalbrecht24.github.io/index.md)
 ```
 
 ```
