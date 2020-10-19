@@ -7,9 +7,11 @@ Below is a list of completed and on-going projects pertaining to my experience i
 
 ## Project 1 - Sentiment Analysis for Game of Thrones via Twitter
 
-Back in 2019, before the final episodes aired, Game of Thrones was widely regarded as the greatest television series of all time. For one of my school projects I used Python to grab tweets about the show, sort them by character and general sentiment to gain a better understanding over which character was the most popular. With this data in hand, I analysed and visualized this data further using r to create a final presentation for my class.
+Back in 2019, before the final episodes aired, Game of Thrones was widely regarded as the greatest television series of all time. For one of my school projects I used Python to grab tweets about the show, sort them by character and general sentiment to gain a better understanding over which character was the most popular. This data was organized and stored in a panda's dataframe. With this data in hand, I analysed and visualized this data further using r to create a final presentation for my class.
 
 [For more detail, click here](https://github.com/jalbrecht24/ds710spring2019finalproject)
+
+![Thrones](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvj04hVFV4zzWozmvPzkXRk3TMtcnY_dFZXg&usqp=CAU)
 ```
 
 ```
